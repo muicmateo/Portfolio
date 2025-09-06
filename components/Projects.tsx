@@ -16,9 +16,9 @@ const placeholderProjects: Project[] = [
     title: 'FilmBox',
     description: 'a real-time web app where friends vote on movies together to find out which films they would all like to watch.',
     tags: ['TypeScript', 'Next.js', 'React', 'Tailwind CSS', 'socket.io', 'TMDB API'],
-    imageUrl: '/assets/images/FilmBox.png',
+    imageUrl: "/assets/images/FilmBox.png",
     sourceUrl: 'https://github.com/mikaolmes/FilmBox',
-  },  
+  },
   {
     id: 3,
     title: 'AI-Image Generator Frontend',
