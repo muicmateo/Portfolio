@@ -8,7 +8,7 @@ const placeholderProjects: Project[] = [
     title: 'D&D Campaign App',
     description: 'A web application for creating Dungeons & Dragons characters and campaigns, featuring character sheets and a dice roller.',
     tags: ['React', 'TypeScript', 'CSS', 'Google Gemini API'],
-    imageUrl: './assets/images/DnD-AI.png',
+    imageUrl: '/Portfolio/assets/images/DnD-AI.png',
     sourceUrl: 'https://github.com/muicmateo/DnD-AI-Dungeon-Master',
   },
   {
@@ -16,7 +16,7 @@ const placeholderProjects: Project[] = [
     title: 'FilmBox',
     description: 'a real-time web app where friends vote on movies together to find out which films they would all like to watch.',
     tags: ['TypeScript', 'Next.js', 'React', 'Tailwind CSS', 'socket.io', 'TMDB API'],
-    imageUrl: "./assets/images/FilmBox.png",
+    imageUrl: "/Portfolio/assets/images/FilmBox.png",
     sourceUrl: 'https://github.com/mikaolmes/FilmBox',
   },
   {
@@ -24,7 +24,7 @@ const placeholderProjects: Project[] = [
     title: 'AI-Image Generator Frontend',
     description: 'A user-friendly interface for the powerful Google Gemini image generation model.',
     tags: ['React', 'TypeScript','Google Gemini API'],
-    imageUrl: './assets/images/AI-Img-gen.png',
+    imageUrl: '/Portfolio/assets/images/AI-Img-gen.png',
     sourceUrl: 'https://github.com/muicmateo/AI-Image-Generator-frontend',
   },
 ];
