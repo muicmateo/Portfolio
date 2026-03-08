@@ -27,6 +27,14 @@ const placeholderProjects: Project[] = [
     imageUrl: '/Portfolio/assets/images/AI-Img-gen.png',
     sourceUrl: 'https://github.com/muicmateo/AI-Image-Generator-frontend',
   },
+  {
+    id: 4,
+    title: 'ERBO',
+    description: 'a user-friendly web application for calculating inheritance shares and matrimonial property distributions under Swiss law.',
+    tags: ['HTML', 'CSS', 'JavaScript'],
+    imageUrl: '/Portfolio/assets/images/Erbo.png',
+    sourceUrl: 'https://github.com/muicmateo/erbo',
+  },
 ];
 
 
